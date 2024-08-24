@@ -7,3 +7,4 @@
 # Weaknesses
 
 1. Poor handling of large files
+2. complex conflict resolution
